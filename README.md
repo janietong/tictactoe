@@ -1,1 +1,1 @@
-2 player python coded tic tac toe game. Code implemented to 10 microbits, so that each microbit displays one user's value, except one, which is connected to the remote control.
+2 player python coded tic tac toe game. Code implemented to a BBC microbit and Kitronik gamezip, so that game progress is displayed on LEDs. 
